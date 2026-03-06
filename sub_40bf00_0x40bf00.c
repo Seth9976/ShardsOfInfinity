@@ -1,0 +1,92 @@
+// 函数名称: sub_40bf00
+// 虚拟地址: 0x40bf00
+// 源二进制: E:/torrent/Tools/Templetesgames/Shards.of.Infinity.Build.3805616.Win64.Public/steamapps/common/Shards of Infinity/Shards.exe.bndb
+
+void*sub_40bf00()
+{
+    // 第一条实际指令: int32_t eax_10 = data_cdf41c
+    int32_t eax_10 = data_cdf41c
+    data_5c69dc = eax_10
+    data_5c69f4 = 0
+    data_5c69f8 = &UI2StateDecl::`vftable'{for `UI2StateDeclI'}
+    data_5c6a08 = "tutorial_page_12"
+    int32_t eax = data_cdf418
+    data_5c69fc = eax_10 + 1
+    data_5c6a1c = eax_10 + 2
+    data_5c6a3c = eax_10 + 3
+    data_5c69e4 = eax
+    data_5c6a5c = eax_10 + 4
+    data_5c6a04 = &data_5c69d8
+    data_5c6a0c = 2
+    data_5c6a10 = 6
+    data_5c6a14 = 0
+    data_5c6a9c = eax_10 + 6
+    data_5c6abc = eax_10 + 7
+    data_5c6adc = eax_10 + 8
+    data_5c6afc = eax_10 + 9
+    data_5c6b1c = eax_10 + 0xa
+    data_5c6a18 = &UI2StateDecl::`vftable'{for `UI2StateDeclI'}
+    data_5c6a28 = "tutorial_page_13"
+    data_5c6a24 = &data_5c69f8
+    data_5c6a2c = 5
+    data_5c6a30 = 7
+    data_5c6a34 = 0
+    data_5c6a38 = &UI2StateDecl::`vftable'{for `UI2StateDeclI'}
+    data_5c6a48 = "tutorial_page_14"
+    data_5c6a44 = &data_5c6a18
+    data_5c6a4c = 6
+    data_5c6a50 = 8
+    data_5c6a54 = 0
+    data_5c6a58 = &UI2StateDecl::`vftable'{for `UI2StateDeclI'}
+    data_5c6a68 = "tutorial_page_15"
+    data_5c6a64 = &data_5c6a38
+    data_5c6a6c = 7
+    data_5c6a70 = 9
+    data_5c6a74 = 0
+    data_5c6a78 = &UI2StateDecl::`vftable'{for `UI2StateDeclI'}
+    data_5c6a88 = "tutorial_page_16"
+    data_5c6a7c = eax_10 + 5
+    data_5c6a84 = &data_5c6a58
+    data_5c6a8c = 2
+    data_5c6a90 = 0
+    data_5c6a98 = &UI2StateDecl::`vftable'{for `UI2StateDeclI'}
+    data_5c6aa8 = "tutorial_page_17"
+    data_5c6aa4 = &data_5c6a78
+    data_5c6aac = 8
+    data_5c6ab0 = 0xa
+    data_5c6ab4 = 0
+    data_5c6ab8 = &UI2StateDecl::`vftable'{for `UI2StateDeclI'}
+    data_5c6ac8 = "tutorial_page_18"
+    data_5c6ac4 = &data_5c6a98
+    data_5c6acc = 9
+    data_5c6ad0 = 0xb
+    data_5c6ad4 = 0
+    data_5c6ad8 = &UI2StateDecl::`vftable'{for `UI2StateDeclI'}
+    data_5c6ae8 = "tutorial_page_20"
+    data_5c6ae4 = &data_5c6ab8
+    data_5c6aec = 2
+    data_5c6af0 = 0
+    data_5c6af8 = &UI2StateDecl::`vftable'{for `UI2StateDeclI'}
+    data_5c6b08 = "tutorial_page_21"
+    data_5c6b04 = &data_5c6ad8
+    data_5c6b0c = 0xb
+    data_5c6b10 = 5
+    data_5c6b14 = 0
+    data_5c6b18 = &UI2StateDecl::`vftable'{for `UI2StateDeclI'}
+    data_5c6b28 = "tutorial_page_21-5"
+    data_cdf41c = eax_10 + 0xb
+    data_5c6b3c = data_5c674c
+    data_5c6b40 = data_5c6750
+    data_5c6b44 = data_5c6754
+    void* result = data_5c6758
+    data_5c6b24 = &data_5c6af8
+    data_cdf418 = &data_5c6b18
+    data_5c6b2c = 2
+    data_5c6b30 = 0
+    data_5c6b38 = &UI2StateDecl::`vftable'{for `UI2StateDeclI'}
+    data_5c6b48 = result
+    data_5c6b4c = 1
+    data_5c6b50 = 0
+    data_5c6b54 = 5
+    return result
+}
